@@ -1,0 +1,10 @@
+@media screen and (max-width: 1024px) {
+    .sum-col {
+        position: sticky;
+        top: 0;
+        background: #fff;
+        z-index: 2;
+        box-shadow: 0 3px 3px #ddd;
+        margin-bottom: 20px !important;
+    }
+}
